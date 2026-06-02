@@ -27,7 +27,7 @@
       "id": "gotemplate",
       "aliases": ["gotemplate"],
       "extensions": [
-        "gotmpl",
+        ".gotmpl",
         ".tmpl",
         ".tpl"
       ],
